@@ -1,0 +1,9 @@
+Value 1: Hide/OFF/False/0 hides the screen
+Shows it otherwise
+
+Value 2: Specified color of a rectangular image
+appearing for the whole screen.
+The color can be specified simply by its name
+(eg. White, Red, Black) or its Hex code (#00dd00,
+0xff001122).
+White (0xFFFFFFFF) used by default

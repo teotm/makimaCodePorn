@@ -1,0 +1,10 @@
+This event uses the same static screen as in the "Static
+Color Screen" event. If you want to give a specified
+color to it use that event instead.
+
+Value 1: Sets the alpha of the static image to
+a specified value in a linear way.
+1 used by default.
+
+Value 2: Duration of the event in seconds.
+1 used by default.

@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				-196
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "makimadownporn",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "makimaidleporn",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "makimaleftporn",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "makimarightporn",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "makimaupporn",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/makimaspriteporn",
+	"position": [
+		-110,
+		70
+	],
+	"healthicon": "MFP-kobeni",
+	"flip_x": false,
+	"healthbar_colors": [
+		117,
+		35,
+		31
+	],
+	"camera_position": [
+		-390,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

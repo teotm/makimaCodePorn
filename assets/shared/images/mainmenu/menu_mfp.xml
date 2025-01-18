@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_MFP.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mfp white0000" x="0" y="0" width="828" height="217" pivotX="41.65" pivotY="39.1"/>
+	<SubTexture name="mfp white0001" x="828" y="0" width="827" height="216" frameX="-1" frameY="-1" frameWidth="828" frameHeight="217"/>
+	<SubTexture name="mfp white0002" x="0" y="217" width="826" height="215" frameX="-2" frameY="-2" frameWidth="828" frameHeight="217"/>
+	<SubTexture name="mfp basic0000" x="826" y="217" width="644" height="169" pivotX="24.6" pivotY="44.2"/>
+	<SubTexture name="mfp basic0001" x="826" y="217" width="644" height="169"/>
+	<SubTexture name="mfp basic0002" x="826" y="217" width="644" height="169"/>
+	<SubTexture name="mfp basic0003" x="0" y="432" width="644" height="169"/>
+	<SubTexture name="mfp basic0004" x="644" y="432" width="644" height="169"/>
+	<SubTexture name="mfp basic0005" x="644" y="432" width="644" height="169"/>
+	<SubTexture name="mfp basic0006" x="1288" y="432" width="644" height="169"/>
+	<SubTexture name="mfp basic0007" x="1288" y="432" width="644" height="169"/>
+	<SubTexture name="mfp basic0008" x="1288" y="432" width="644" height="169"/>
+</TextureAtlas>

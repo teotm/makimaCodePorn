@@ -1,0 +1,61 @@
+{
+	"song": {
+		"events": [
+			[
+				-10000,
+				[
+					[
+						"Static Color Screen",
+						"",
+						"black"
+					]
+				]
+			],
+			[
+				0,
+				[
+					[
+						"Tween Flash Screen's Alpha",
+						"0",
+						"10.5"
+					],
+					[
+						"Camera Zoom Tween",
+						"1.0625",
+						"10.5"
+					]
+				]
+			],
+			[
+				10500,
+				[
+					[
+						"Change Character",
+						"dad",
+						"makimafartporn"
+					],
+					[
+						"Static Color Screen",
+						"hide",
+						"black"
+					],
+					[
+						"Tween Flash Screen's Alpha",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				134812.5,
+				[
+					[
+						"Static Color Screen",
+						"",
+						"black"
+					]
+				]
+			]
+		]
+	}
+}

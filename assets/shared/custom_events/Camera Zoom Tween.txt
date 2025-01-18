@@ -1,0 +1,5 @@
+Value 1: Zooms the camera to a specified value in a linear way
+If blank, 0.9 is used by default
+
+Value 2: Time of the zoom in seconds
+If blank, 1 is used by default

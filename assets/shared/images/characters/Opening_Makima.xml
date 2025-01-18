@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Opening Makima.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 10000" x="0" y="0" width="318" height="403" pivotX="401.95" pivotY="165.6"/>
+	<SubTexture name="Symbol 10001" x="0" y="0" width="318" height="403"/>
+	<SubTexture name="Symbol 10002" x="318" y="0" width="318" height="403"/>
+	<SubTexture name="Symbol 10003" x="318" y="0" width="318" height="403"/>
+</TextureAtlas>
